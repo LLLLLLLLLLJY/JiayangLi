@@ -1,0 +1,366 @@
+    1  git init
+    2  git init
+    3  git config --global user.name JiayangLi
+    4  git config --global user.name jiangyangli@ucsb.edu
+    5  git init
+    6  cd /root/Desktop/
+    7  cd /host
+    8  cd host
+    9  git config -- global user.name JiayangLi
+   10  git config -- global JiayangLi
+   11  git config -- LLLLLLLLLLJY
+   12  git config -- global LLLLLLLLLLJY
+   13  git config --global LLLLLLLLLLJY
+   14  cd ../..
+   15  ls
+   16   git config
+   17  git config --global LLLLLLLLLLJY
+   18  git config --global user.name "LLLLLLLLLLJY"
+   19  git config --global user.email "jiayang_Li@ucsb.edu"
+   20  git checkout -b main Switched to a new branch 'main'
+   21  git checkout -b main
+   22  git checkout -b main
+   23  git init
+   24  git init
+   25  cd /root/Desktop/host
+   26  git checkout -b main
+   27  git remote add origin https://github.com/LLLLLLLLLLJY/JiayangLi.git
+   28  git init
+   29  git remot add origin https://github.com/LLLLLLLLLLJY/JiayangLi.git
+   30  git remote add origin https://github.com/LLLLLLLLLLJY/JiayangLi.git
+   31  git init
+   32  git config --global user.name "LLLLLLLLLLJY"
+   33  git config --global user.email "jiayang_Li@ucsb.edu"
+   34  git checkout -b main Switch to a new branch 'main'
+   35  git checkout -b main
+   36  git add .
+   37  git commit -m "init"
+   38  git init
+   39  ls
+   40  cd
+   41  cd / root/Desktop/host/
+   42  cd / root/Desktop/host/
+   43  cd / root/Desktop/host/
+   44  git init
+   45  cd / root/Desktop/host/
+   46  cd /root/Desktop/host/
+   47  git init
+   48  ls
+   49  cd P1_B.tar.gz ls
+   50  pwd
+   51  mkdir p1_basic_unix
+   52  ls
+   53  mkdir src
+   54  ls
+   55  remove src
+   56  rm src
+   57  rm -rf src
+   58  ls
+   59  cd p1_basic_unix/
+   60  ls
+   61  mkdir -p p1_basic_unix/src/graphic
+   62  ls
+   63  rm p1_basic_unix/
+   64  rm p1_basic_unix
+   65  cd
+   66  ls
+   67  ls
+   68  cd
+   69  ls
+   70  cd 
+   71  cd host
+   72  cd /root/Desktop/host/
+   73  git init
+   74  cd
+   75  ls
+   76  ls
+   77  cd /root/Desktop/host/
+   78  ls
+   79  cd p1_basic_unix/
+   80  ls
+   81  cd
+   82  ls
+   83  cd /root/Desktop/host
+   84  ls
+   85  cd /root/Desktop/host
+   86  cd ..
+   87  cd ..
+   88  ls
+   89  cd ..
+   90  ls
+   91  rm -r Archive_P1/
+   92  cd /root/Desktop/host
+   93  ls
+   94   mkdir Archive_P1
+   95  git init
+   96  cp /root/Desktop/host/p1_basic_unix.tar.gz .
+   97  cp p1_basic_unix.tar.gz /Archive_P1/
+   98  ls
+   99  cd Archive_P1/
+  100  cp /root/Desktop/host/p1_basic_unix.tar.gz .
+  101  git add p1_basic_unix.tar.gz
+  102  git commit -m "Add P1.1"
+  103  git remote add origin https://github.com/LLLLLLLLLLJY/JiayangLi.git
+  104  git push -u origin master
+  105  git push -u origin main
+  106  cd ..
+  107  ls
+  108  git clone https://github.com/LLLLLLLLLLJY/P2.git
+  109  ls
+  110  cd P2
+  111  ls
+  112  cd Problem1/
+  113  ls
+  114  rm /Problem_1/*.bin
+  115  cd ..
+  116  rm /Problem_1/*.bin
+  117  ls
+  118  rm /Problem1/*.bin
+  119  rm /Problem_1/*.bin
+  120  rm Problem1/*.bin
+  121  ls
+  122  cd P2
+  123  ls
+  124  cd Problem1/
+  125  ls
+  126  cd electron_scattering_data/
+  127  ls
+  128  mkdir odd
+  129  mkdir even
+  130  chmod +x setup_alias.sh
+  131  file_remove
+  132  cd P2/electron_scattering_data
+  133  ./sort_by_index.sh
+  134  chmod +x sort_by_index.sh
+  135  ./sort_by_index.sh
+  136  ls
+  137  cd odd
+  138  ls
+  139  ./sort_by_index.sh
+  140  cd ..
+  141  ./sort_by_index.sh
+  142  ls
+  143  cd odd
+  144  ls
+  145  cd ..
+  146  ./sort_by_index.sh
+  147  ls
+  148  cd odd
+  149   ls
+  150  bash -x ../sort_by_index.sh
+  151  bash ../sort_by_index.sh
+  152  ls odd
+  153  ls /odd
+  154  cd odd
+  155  cd ..
+  156  bash ../sort_by_index.sh
+  157  ls
+  158  bash ../sort_by_index.sh
+  159  bash sort_by_index.sh 
+  160  ls
+  161  cd odd
+  162  ls
+  163  chmod +x sort_by_index.sh
+  164  cd ..
+  165  chmod +x sort_by_index.sh
+  166  bash sort_by_index.sh 
+  167  ls
+  168  cd odd
+  169  ls
+  170  cd ..
+  171  git add Problem_1 setup_alias.sh electron_scattering_data/sort_by_index.sh
+  172  cd ..
+  173  cd ..
+  174  cd ..
+  175  ls
+  176  git add Problem_1 setup_alias.sh electron_scattering_data/sort_by_index.sh
+  177  cd P2
+  178  git add Problem_1 setup_alias.sh electron_scattering_data/sort_by_index.sh
+  179  ls
+  180  git add Problem1 setup_alias.sh electron_scattering_data/sort_by_index.sh
+  181  chmod +x setup_alias.sh
+  182  ls
+  183  cd P2
+  184  ls
+  185  cd Problem1/
+  186  ls
+  187  cd electron_scattering_data/
+  188  chmod +x setup_alias.sh
+  189  file_remove
+  190  ./setup_alias.sh
+  191  file_remove
+  192  chmod +x setup_alias.sh
+  193  ./setup_alias.sh
+  194  file_remove
+  195  ./Setup_alias.sh
+  196  echo "alias file_remove='rm -f'" >file_remove
+  197  cd ..
+  198  cd ..
+  199  git add Problem_1
+  200  cd ..
+  201  ls
+  202  cd P2
+  203  ls
+  204  git add Problem1
+  205  git push -u origin main
+  206  git init
+  207  git add Problem1
+  208  git commit -m "Problem2"
+  209  git push -u origin main
+  210  git remote set-url origin https://github.com/LLLLLLLLLLJY/JiayangLi.git
+  211  git add Problem1
+  212  git commit -m "Problem2"
+  213  git push origin main
+  214  git push --force  origin main
+  215  cd ..
+  216  ls
+  217  git add Archive_P1/
+  218  git remote set-url origin https://github.com/LLLLLLLLLLJY/H1P1.git
+  219  git add Archive_P1/
+  220  git commit -m "P1"
+  221  git add Archive_P1/
+  222  git push origin main
+  223  mkdir P3
+  224  cd P3
+  225  vim convert_number.sh
+  226  touch convert_number.sh
+  227  vim convert_number.sh
+  228  ls
+  229  nano convert_number.sh 
+  230  vim convert_number.sh 
+  231  nano convert_number.sh
+  232  chmod +x convert.sh
+  233  chmod +x convert.sh
+  234  ./convert.sh 42
+  235  chmod +x convert.sh
+  236  ./convert.sh 42
+  237  chmod +x convert.sh
+  238  ./convert.sh 42
+  239  https://github.com/LLLLLLLLLLJY/H1P3.git  git remote set-url origin
+  240  cd ..
+  241  ls
+  242  git remote set-url origin https://github.com/LLLLLLLLLLJY/H1P3.git
+  243  git add P3
+  244  git commit -m "P3" 
+  245  git push origin main
+  246  ls
+  247  mkdir P4
+  248  cd P4
+  249  git checkout -b feature_branch
+  250  echo "hello world!" > README.md
+  251  git add README.md
+  252  git commit -m 'Add README with hello world\!'
+  253  git push -u origin feature_branch
+  254  git checkout main
+  255  git merge feature_branch
+  256  cd ..
+  257  cd P4
+  258  ls
+  259  git clone https://github.com/你的用户名/P4.git
+  260  git clone https://github.com/LLLLLLLLLLJY/H1P3.git
+  261  ls
+  262  cd h1H3
+  263  rm -f H1P3
+  264  rm -rf H1P3
+  265  git checkout main
+  266  git branch -D feature_branch
+  267  git push origin --delete feature_branch
+  268  git checkout -b feature_branch
+  269  git push -u origin feature_branch
+  270  mkdir P4
+  271  cd P4
+  272  git init
+  273  git status
+  274  git checkout -b feature_branch
+  275  echo "hello world!" > README.md
+  276  git add README.md
+  277  git commit -m "Add README with hello world"
+  278  git push -u origin feature_branch
+  279  git remote add origin https://github.com/LLLLLLLLLLJY/H1P3.git
+  280  git push -u origin feature_branch
+  281  git init
+  282  git remote add origin https://github.com/LLLLLLLLLLJY/H1P3.git
+  283  git remote -v
+  284  git checkout -b feature_branch
+  285  echo "hello world!" > README.md
+  286  git add README.md
+  287  git commit -m "Add README with hello world"
+  288  git push -u origin feature_branch
+  289  git remote remove origin
+  290  git init
+  291  git remote add origin https://github.com/LLLLLLLLLLJY/H1P1.git
+  292  git checkout -b feature_branch
+  293  git checkout main
+  294  git branch
+  295  ls
+  296  cd P4
+  297  git init
+  298  git remote add origin https://github.com/LLLLLLLLLLJY/H1P1.git
+  299  git remote set-url origin https://github.com/LLLLLLLLLLJY/H1P1.git
+  300  git remote -v
+  301  git checkout -b feature_branch
+  302  echo "hello world!" > README.md
+  303  git add README.md
+  304  git commit -m 'Add README with "hello world!"'
+  305  git status
+  306  git add README.md
+  307  git commit -m "Add README file"
+  308  git push -u origin feature_branch
+  309  git branch
+  310  git checkout main
+  311  git branch
+  312  git fetch origin
+  313  git checkout -b main origin/main
+  314  git merge feature_branch
+  315  git push origin feature_branch
+  316  git merge feature_branch
+  317  git merge feature_branch --allow-unrelated-histories
+  318  cd P4
+  319  git init
+  320  git checkout main
+  321  git merge feature_branch
+  322  git merge feature_branch --allow-unrelated-histories
+  323  git checkout -- README.md
+  324  git merge feature_branch --allow-unrelated-histories
+  325  git merge feature_branch --allow-unrelated-histories --no-commit
+  326  git reset --hard HEAD
+  327  git merge feature_branch --allow-unrelated-histories
+  328  cd ..
+  329  rm -rf /root/Desktop/host/P4
+  330  git clone https://github.com/LLLLLLLLLLJY/JiayangLi.git
+  331  cd JiayangLi
+  332  git checkout -b feature_branch
+  333  echo "hello world!" > README.md
+  334  git add README.md
+  335  git commit -m 'Add README file with "hello world\!"'
+  336  git push -u origin feature_branch
+  337  git checkout main
+  338  git merge feature_branch --allow-unrelated-histories
+  339  git push origin main
+  340  git pull origin main
+  341  cat README.md
+  342  your_command > output.txt
+  343  cd ..
+  344  script output.txt
+  345  ls -l > terminal_output.txt
+  346  command > output.txt
+  347  d
+  348  cd
+  349  ls
+  350  cd /root/Desktop/host/
+  351  ls
+  352  mv /root/Desktop/host/Archive_P1 /root/Desktop/host/JiayangLi/
+  353  cd /root/Desktop/host/JiayangLi
+  354  git add Archive_P1
+  355  git commit -m "P1"
+  356  git push origin main
+  357  cd ..
+  358  ls
+  359  cd P3
+  360  ls
+  361  mv /root/Desktop/host/P3 /root/Desktop/host/JiayangLi/
+  362  cd /root/Desktop/host/JiayangLi
+  363  git add P3
+  364  git commit -m "P3"
+  365  git push origin main
+  366  history > terminal_history.txt
